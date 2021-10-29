@@ -13,12 +13,26 @@ header {
         font-size: small;
     }
 
-    body {
-        text-align: center;
-        align-items: center;
+    body { margin: left 15%;
+        margin right: 35%;
+       
     
     }
 
     p {
-        text-align: center;
+     margin-left: 15%;
+     margin right: 35%;
+    }
+
+    
+
+    h2 { font-size: x-large;
+        margin-left: 15%;
+        margin right: 35%;
+        color:orange;
+         }
+
+    h3 { margin-left: 15%;
+        margin right: 35%;
+        
     }
